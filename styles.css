@@ -1,0 +1,42 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.book-header{
+    display: flex;
+    gap: 24px;
+    max-width:100%;
+    border: 2px solid #121212;
+    padding: 10px;
+}
+
+.body{
+    background-color: grey;
+}
+
+.div{
+    background-color: #fff;
+}
+
+.c1,.c2,.b1,.b2,.p1{
+    font-size: 20px;
+}
+
+.b1,.b2{
+    background-color: #121212;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;     
+    font-size: 12px;
+    border-radius: 5px;
+}
+
+.h1{
+    font-weight:lighter;
+}
+
+.img{
+    height:auto;
+}
